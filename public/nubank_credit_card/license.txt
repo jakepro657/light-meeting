@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nubank Credit Card
+* source:	https://sketchfab.com/3d-models/nubank-credit-card-2bab2563b5a94d9c82bf4591e0288d03
+* author:	Gustavo Rocha (https://sketchfab.com/GuuhCreations)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nubank Credit Card" (https://sketchfab.com/3d-models/nubank-credit-card-2bab2563b5a94d9c82bf4591e0288d03) by Gustavo Rocha (https://sketchfab.com/GuuhCreations) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
